@@ -3,7 +3,7 @@
 **Author:** Ved Kaura  
 **Architecture:** Deterministic extraction with LLM assistance (zero hallucination for financial data)
 
-## Quick Start (Kaggle)
+## Quick Start
 ```python
 # Set your API key
 import os
@@ -22,5 +22,3 @@ When prompted, enter ticker (e.g., MSFT, AAPL, GOOGL)
 - Top 3 risk factors with evidence
 - MD&A themes and sentiment analysis
 - Outputs structured JSON
-
-Full documentation in repository.
